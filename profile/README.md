@@ -1,7 +1,5 @@
 # CypherArx
 
-<img src="icon.svg" width="96" alt="The CypherArx icon: a tower with a keyhole">
-
 CypherArx is a password manager for data that the usual "site, user name, password" list
 cannot hold: accounts with things below them, any number of labelled values, and several
 identities on the same service. Everything is kept in one local file and is never sent
